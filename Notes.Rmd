@@ -1,0 +1,26 @@
+---
+title: "Notes for Git and Github"
+author: "Elin Swank"
+date: "2023-09-27"
+output: html_document
+---
+Intro to Git and Github
+
+Terms:
+•	Directory: Folder
+•	Terminal/ Command Line: Text Command Interface
+•	CLI: Command Line Interface
+•	cd: Change Directory
+•	Code Editor: Word Processor for writing code
+•	Repository: Project, or the folder/place where your project is kept
+•	Github: A website to host your repositories online
+
+Git Commands
+•	clone: Bring a repository that is hosted somewhere like Github into a folder on your local machine
+•	add: Track your files and changes in Git
+•	commit: Save your files in Git
+•	push: Upload Git commits to a remote repo, like Github (the opposite of pull)
+•	pull: Download changes from remote repo to your local machine (the opposite of push)
+
+Workflow from R-Studio to Github (Through git): 
+Knit -> Commit -> Push 
